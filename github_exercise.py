@@ -1,2 +1,3 @@
 x = "hello"
-print(x)
+y = "goodbye"
+print(x, y)
